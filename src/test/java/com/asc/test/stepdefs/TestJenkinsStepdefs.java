@@ -12,7 +12,7 @@ public class TestJenkinsStepdefs {
 	    System.setProperty("webdriver.chrome.driver", "D:\\softwares\\chromedriver_win32_107\\chromedriver.exe");
 	    driver = new ChromeDriver();
 	    driver.get("https://www.google.com");
-	    System.out.println("done");
+	    System.out.println("done...");
 	}
 
 }
